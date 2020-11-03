@@ -31,6 +31,9 @@ h1 {
   .image--container {
     width: 84vw;
   }
+  h1 {
+    font-size: 1.5em;
+  }
 }
 
 .image--container img {
